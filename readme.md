@@ -10,6 +10,7 @@ This project is a template for a multi command plugin REPL app.
 2. CD into the project folder.
 3. Create and activate the virtual environment (VE).
 4. Install the required libraries.
+5.  Signup for OpenAI Api Key.  Make .env file and put the key in as "open_ai_key=YOUR_KEY"
 
 ## Testing Commands
 
