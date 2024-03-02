@@ -2,7 +2,23 @@
 
 ## Introduction
 
-This project is a template for a multi command plugin REPL app.
+This project is a demo of an in memory history for a movie agent.  
+
+## Assignment
+
+Take this code and make a new plugin to become an expert in something else.
+
+## Midterm Suggestions:
+1.  Implement Retrieval Augmented Generation (RAG) with some type of custom data.
+
+[watch this to start](https://www.youtube.com/watch?v=tcqEUSNCn8I)
+
+
+2.  Install different local modals and compare the quality of their output using a standardized process of questions / interactions.
+
+[Intall Local Model](https://www.youtube.com/watch?v=VPW6mVTTtTc)
+
+3.  Come up with your own project?
 
 ## Project Setup
 
