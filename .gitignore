@@ -4,4 +4,5 @@
 *__pycache__
 .env
 amsvenv
-logs/app.log 
+logs*
+logs/*

@@ -1,24 +1,10 @@
-# Project: Agent Management System
+# Homework 1 : Create an Agent to perform as a particular job.  I did an example of history teacher and movie advisor, you need to use this repository and watch the **lecture video** [here](https://youtu.be/T2h6mSycMqg).  What I want you to do is practice writing system prompts and see how the agent will obey your commands (or not).  You should change the model to use other models to experiment but you also need to look at how much they cost:
 
-## Introduction
+* List of GPT4 Models - [here](https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo)
+* List of GPT3.5 Models - [here](https://platform.openai.com/docs/models/gpt-3-5-turbo)
 
-This project is a demo of an in memory history for a movie agent.  
-
-## Assignment
-
-Take this code and make a new plugin to become an expert in something else.
-
-## Midterm Suggestions:
-1.  Implement Retrieval Augmented Generation (RAG) with some type of custom data.
-
-[watch this to start](https://www.youtube.com/watch?v=tcqEUSNCn8I)
-
-
-2.  Install different local modals and compare the quality of their output using a standardized process of questions / interactions.
-
-[Intall Local Model](https://www.youtube.com/watch?v=VPW6mVTTtTc)
-
-3.  Come up with your own project?
+* Model Pricing - PAY ATTENTION IT COSTS A LOT FOR SOME MODELS.
+[Pricing is here but scroll down and look at what GPT4 preview costs $60 for 1 million tokens](https://openai.com/pricing)
 
 ## Project Setup
 
